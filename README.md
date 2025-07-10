@@ -25,6 +25,11 @@ The curriculum table includes:
 - **First Year, First Semester**
 - **First Year, Second Semester**
 - **Second Year, First Semester**
+- **Second Year, Second Semester**
+- **Third Year, First Semester**
+- **Third Year, Second Semester**
+- **Fourth Year, First Semester**
+- **Fourth Year, Second Semester**
 
 Each course displays the following:
 - Course code

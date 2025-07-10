@@ -50,10 +50,8 @@ Each course displays the following:
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/rjayibina/curriculum-table.git
-
-
+   ```bash git clone https://github.com/rjayibina/curriculum-table.git
+   
 ---
 
 Let me know if you’d like to include a screenshot preview, a live link (GitHub Pages), or additional sections like accessibility or future improvements.

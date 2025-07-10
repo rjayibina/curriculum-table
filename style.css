@@ -1,0 +1,47 @@
+.curriculum {
+  width: 100%;
+  max-width: 900px;
+  margin: 80px auto;
+  border-collapse: collapse;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+.curriculum td {
+  text-align: center;
+  border: 1px solid rgba(104, 104, 104, 0.6);
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+.curriculum-sem td {
+  background-color: #539fea;
+  color: #fff;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.table-header td {
+  background-color: #e2e2e2;
+  padding: 7px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.course-details td {
+  font-size: 12px;
+  padding: 7px;
+}
+.table-header td,
+.course-details td {
+  color: #333;
+}
+.passed {
+  background-color: skyblue;
+}
+.in-progress {
+  background-color: yellow;
+}
+
+@media(max-width: 767px) {
+  .table-wrapper {
+    overflow-x: scroll;
+  }
+}
